@@ -327,7 +327,7 @@
     "expand-home-dir": "0.0.3",
     "find-java-home": "0.2.0",
     "shelljs": "0.8.5",
-    "vscode-extension-telemetry": "0.0.17",
+    "vscode-extension-telemetry": "0.4.5",
     "vscode-languageclient": "8.1.0"
   },
   "description": "Provides code-editing features for the Apex programming language",
@@ -356,7 +356,7 @@
     "prettier": "3.0.3",
     "sinon": "^13.0.1",
     "typescript": "^5.2.2",
-    "vscode-extension-telemetry": "0.0.17"
+    "vscode-extension-telemetry": "0.4.5"
   },
   "displayName": "Apex",
   "engines": {

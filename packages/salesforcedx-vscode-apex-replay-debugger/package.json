@@ -187,7 +187,7 @@
     "@salesforce/salesforcedx-utils-vscode": "60.10.0",
     "async-lock": "1.0.0",
     "request-light": "^0.7.0",
-    "vscode-extension-telemetry": "0.0.17"
+    "vscode-extension-telemetry": "0.4.5"
   },
   "description": "Replay Apex execution from Apex Debug Log",
   "devDependencies": {
