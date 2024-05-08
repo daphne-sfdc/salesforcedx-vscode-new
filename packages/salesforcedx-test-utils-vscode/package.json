@@ -37,7 +37,7 @@
     "mocha-multi-reporters": "^1.1.7",
     "mock-spawn": "0.2.6",
     "nyc": "^15.1.0",
-    "prettier": "3.0.3",
+    "prettier": "3.2.5",
     "request-light": "^0.7.0",
     "sinon": "^13.0.1",
     "source-map-support": "^0.4.15",
