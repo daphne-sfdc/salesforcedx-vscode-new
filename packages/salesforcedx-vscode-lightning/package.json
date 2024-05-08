@@ -58,7 +58,7 @@
     "prettier": "3.0.3",
     "sinon": "^13.0.1",
     "typescript": "^5.2.2",
-    "vscode-uri": "1.0.1"
+    "vscode-uri": "1.0.8"
   },
   "extensionDependencies": [
     "salesforce.salesforcedx-vscode-core"
